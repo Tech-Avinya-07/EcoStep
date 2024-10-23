@@ -44,19 +44,23 @@ EcoStep allows users to assess the carbon footprint of their purchases by analyz
 
 ### Usage
 
-#### Running the CarbonBuddy Chatbot
 1. Launch the chatbot interface using Streamlit:
     ```bash
-    python streamlit_chatbot.py
+    streamlit run streamlit_chatbot.py
     ```
     You can interact with the chatbot, ask questions about your carbon footprint, and receive personalized insights.
 
 2. To process receipts (PDFs/images), run the OCR pipeline:
     ```bash
-    python streamlit_ocr.py
+    streamlit run  streamlit_ocr.py
     ```
     Upload your receipt, and the system will extract, analyze, and display your carbon footprint.
 
+3. To geenrate the report, run the report_generator.py file:
+   ```bash
+    python report_generator.py
+    ```
+   The report will be saved to report_carbon_footprint_user.docx .You can open it to see your personalised report.
 ---
 
 ### Modules Overview
