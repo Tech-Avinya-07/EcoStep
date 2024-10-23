@@ -85,13 +85,13 @@ The project consists of 12 key Python scripts:
 
 IBM WatsonX is a key component in both the **receipt analysis**, **chatbot**, and **report generation** functionalities.
 
-#### WatsonX in Receipt Analysis
+#### WatsonX AI in Receipt Analysis
 When a receipt is processed, WatsonX is used to analyze the extracted text. It categorizes items, calculates their carbon footprint based on type and quantity, and stores this data in the SQLite database.
 
-#### WatsonX in the Chatbot
+#### WatsonX AI in the Chatbot
 WatsonX powers the chatbot that interacts with users, answering their queries about carbon footprints. It uses natural language processing to understand the user’s questions and responds based on the stored data.
 
-#### WatsonX in Report Generation
+#### WatsonX AI in Report Generation
 WatsonX analyzes the generated report and provides customized recommendations for reducing carbon emissions. These suggestions are based on the carbon footprint trends from a user’s purchases, offering actionable advice tailored to their shopping patterns.
 
 ---
