@@ -26,8 +26,8 @@ EcoStep allows users to assess the carbon footprint of their purchases by analyz
 #### Steps to Install:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/CarbonBuddy.git
-    cd CarbonBuddy
+    https://github.com/Tech-Avinya-07/EcoStep.git
+    cd EcoStep
     ```
 
 2. Install the required dependencies using pip:
