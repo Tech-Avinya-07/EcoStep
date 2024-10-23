@@ -96,6 +96,12 @@ WatsonX analyzes the generated report and provides customized recommendations fo
 
 ---
 
+### Working Demo
+
+https://drive.google.com/file/d/1iO_HiZ7Lrp1Z1DYt7qoTsk0HaTWWUF_n/view?usp=drive_link
+
+---
+
 ### Contribution
 
 1. Fork the repository.
